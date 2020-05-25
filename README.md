@@ -1,2 +1,2 @@
 # SmartAttendace
-Attendance systems through facial recognition
+Attendance system through facial recognition
